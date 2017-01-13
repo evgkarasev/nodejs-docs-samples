@@ -1,7 +1,7 @@
 {
   "RESULT_TOPIC": "saving_results",
   "RESULT_BUCKET": "ocr-text-bucket",
-  "TRANSLATE_TOPIC": "translating results",
+  "TRANSLATE_TOPIC": "translating_results",
   "TRANSLATE": true,
   "TO_LANG": ["en", "fr", "es", "ja", "ru"]
 }
